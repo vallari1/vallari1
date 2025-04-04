@@ -30,7 +30,7 @@ Nothing's more exciting than watching your code literally come to life:
 ---
 
 ## 🛠️ What I Use
-**Languages**: Python, C++, SQL, JavaScript & their related libaries
+**Languages**: Python, C++, SQL, JavaScript & their related libaries  
 **Frameworks**: ROS2, OpenCV, TensorFlow, PyTorch  
 **Simulation Tools**: Gazebo, Isaac Sim  
 **CAD/Hardware**: SolidWorks, Raspberry Pi, Arduino , Node MCUs
