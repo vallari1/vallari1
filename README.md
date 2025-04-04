@@ -14,7 +14,7 @@ Currently exploring :
 ---
 
 ## 🔭 What I’m Working On
-- Designing **perception algorithms** for autonomous systems at **IIT Guwahati**, on **Jetson Orin kits**
+- Designing **perception algorithms** for autonomous systems at **DSRL**, on **Jetson Orin kits**
 - Leading the **Technocrats Robotics** team through DD Robocon and International Rover Challenge
 - Getting fluents in **ROS** , and its relative usage in robotics
 - Building and testing custom robots for navigation, inspection, and crop health monitoring
