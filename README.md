@@ -2,8 +2,12 @@
 # Hey there! I'm Vallari 🤖✨
 
 I make robots for fun
+
+
 Full-time curious cat, part-time student and robotics researcher
 
+
+I blog sometimes: https://medium.com/@vallari.ashar13 
 
 Currently exploring :
 - 🧠 Robotic Perception & Sensor Fusion
@@ -14,7 +18,6 @@ Currently exploring :
 ---
 
 ## 🔭 What I’m Working On
-- Designing **perception algorithms** for autonomous systems at **DSRL**, on **Jetson Orin kits**
 - Leading the **Technocrats Robotics** team through DD Robocon and International Rover Challenge
 - Getting fluents in **ROS** , and its relative usage in robotics
 - Building and testing custom robots for navigation, inspection, and crop health monitoring
