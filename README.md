@@ -18,21 +18,15 @@ Currently exploring :
 ---
 
 ## 🔭 What I’m Working On
-- Leading the **Technocrats Robotics** team through DD Robocon and International Rover Challenge
+- Working with arms and simulations on ABBRobotStudio @ ABB Robotics
 - Getting fluents in **ROS** , and its relative usage in robotics
 - Building and testing custom robots for navigation, inspection, and crop health monitoring
 
 ---
 
-## 💡 Why I Build
-Nothing's more exciting than watching your code literally come to life:
-- Designing **real-world usable systems**
-- Bridging **mechanical design with intelligent algorithms**
-- Making robotics more **accessible, reliable, and impactful**
-
----
 
 ## 🛠️ What I Use
+Recently i've started working with C# and .Net
 **Languages**: Python, C++, SQL, JavaScript & their related libaries  
 **Frameworks**: ROS2, OpenCV, TensorFlow, PyTorch  
 **Simulation Tools**: Gazebo, Isaac Sim  
